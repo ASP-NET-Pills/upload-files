@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace UploadFiles.ViewModels
+namespace DustInTheWind.UploadFiles.ViewModels
 {
     public class MultipartRequest
     {

@@ -2,6 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>net48</TargetFramework>
+        <AssemblyName>DustInTheWind.UploadFiles</AssemblyName>
+        <RootNamespace>DustInTheWind.UploadFiles</RootNamespace>
     </PropertyGroup>
 
     <PropertyGroup>

@@ -1,4 +1,4 @@
-﻿namespace UploadFiles.ViewModels
+﻿namespace DustInTheWind.UploadFiles.ViewModels
 {
     public class MultipartResponse
     {

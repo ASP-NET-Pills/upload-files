@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using System.Threading.Tasks;
+using DustInTheWind.UploadFiles.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using UploadFiles.ViewModels;
 
-namespace UploadFiles
+namespace DustInTheWind.UploadFiles
 {
     [Route("/api/home")]
     [ApiController]
